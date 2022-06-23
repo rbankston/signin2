@@ -1,0 +1,17 @@
+body {
+    background-color: #f57c7c;
+}
+
+#sign-in-box {
+    background-color: #ededed;
+    margin-left: 50px;
+    width: 500px;
+    align-content: center;
+}
+
+.btn {
+    background-color: rgb(165, 52, 59);
+}
+.btn:hover {
+    background-color: white;
+}
